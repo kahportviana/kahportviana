@@ -2,7 +2,7 @@
 
 ![GIF DO SAPINHO FOFO](https://media.tenor.com/lZBi4ZbkDYYAAAAC/sapo.gif)
 
-🐸 Olá, me chamo Karoline Viana <br> 🍀 Estudante na DIO <br> 🌱 [LINKEDIN](https://www.linkedin.com/in/karoline-portella-4a7ba025b/)
+🐸 Olá, me chamo Karoline Viana <br> 🍀 Estudante na DIO <br> 🌱 Hobbie: Ler e Fazer unhas
 
 
 
