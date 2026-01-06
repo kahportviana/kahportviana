@@ -1,8 +1,8 @@
 <center><h2> Sejam Bem Vindos ao Meu Mundo! </h2></center>
 
-![GIF DO GATINHO NO COMPUTADOR](https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif)
+![GIF DO SAPINHO FOFO](https://media.tenor.com/lZBi4ZbkDYYAAAAC/sapo.gif)
 
-🐸 Olá, me chamo Karoline Viana <br> 🍀 <br> 🌱 [LINKEDIN]()
+🐸 Olá, me chamo Karoline Viana <br> 🍀 Estudante na DIO <br> 🌱 [LINKEDIN](www.linkedin.com/in/karoline-portella-4a7ba025b)
 
 
 
