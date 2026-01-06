@@ -1,4 +1,10 @@
-## Hi there 👋
+<center><h2> Sejam Bem Vindos ao Meu Mundo! </h2></center>
+
+![GIF DO GATINHO NO COMPUTADOR](https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif)
+
+🐸 Olá, me chamo Karoline Viana <br> 🍀 <br> 🌱 [LINKEDIN]()
+
+
 
 <!--
 **kahportviana/kahportviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
